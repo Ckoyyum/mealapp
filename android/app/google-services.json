@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113476105490",
+    "project_id": "mealplan-d6a7f",
+    "storage_bucket": "mealplan-d6a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113476105490:android:51aac9012d317ac574efcb",
+        "android_client_info": {
+          "package_name": "com.example.mealplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO4ZCrPM4_fL-6b1BlGGX_d8KVzjLnY2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
